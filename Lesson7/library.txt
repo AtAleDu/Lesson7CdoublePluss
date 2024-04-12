@@ -1,0 +1,5 @@
+War and Peace;Лев Толстой;Роман;1869;false;1709576723;1709618473
+Crime and punishment;Федор Достоевский;Роман;1866;false;0;0
+Kolobok;Me;Adventure;2024;false;0;0
+AS;valeri;adsa;2002;false;0;0
+SUSU;Artur;2023;232;false;0;0
